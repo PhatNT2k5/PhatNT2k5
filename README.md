@@ -70,13 +70,13 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>🧠 Face Recognition Attendance</h3>
-      <p>AI-powered attendance via real-time face detection & deep learning</p>
+      <h3>📝 Image to Quiz (LLM)</h3>
+      <p>AI tool that automatically generates interactive quizzes from uploaded images</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/LLM-000000?style=flat-square&logo=openai&logoColor=white" />
       </p>
-      <a href="https://github.com/PhatNT2k5/Face-recognition-attendance-system"><b>View Project →</b></a>
+      <a href="https://github.com/PhatNT2k5/Image_to_quiz"><b>View Project →</b></a>
     </td>
     <td width="50%">
       <h3>🚗 License Plate OCR</h3>
